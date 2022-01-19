@@ -1,0 +1,26 @@
+.form-container {
+    width: 40%;
+    position: relative;
+    z-index: 99;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-inner-container {
+    background: #fbfbfb;
+    width: 80%;
+    /* height: 100%; */
+    margin: auto 0 auto auto;
+    border-top: 5px solid #75dde6;
+    border-radius: 3px;
+    /* box-shadow: 5px 5px 5px rgba(color: #000000, $alpha: 0.2); */
+}
+.title {
+    margin-top: 1rem;
+    color: #0f1124;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

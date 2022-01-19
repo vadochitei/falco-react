@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: 'Roboto';
+    background: #244384;
+    height: 100%;
+}
+
+.main-container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    color: #fff;
+    position: relative;
+    /* margin-top: 5rem; */
+    height: calc(100vh - 71px);
+}
